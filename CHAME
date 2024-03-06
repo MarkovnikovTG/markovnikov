@@ -1,1 +1,7 @@
+Host name= markovnikovproject.io
 
+type= A
+
+TTL= 3600
+
+Data= 185.139.70.94
